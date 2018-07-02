@@ -48,6 +48,7 @@ namespace PermenionTestTask.Utility
 
         public int ActualResult()
         {
+            //
             //Selenium WebDriver cannot currently interact with 
             //the result data because it is not an html element
             //I have decided to hardcode actual result and return it 
